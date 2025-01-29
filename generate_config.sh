@@ -267,6 +267,8 @@ HTTP_BIND=
 HTTPS_PORT=443
 HTTPS_BIND=
 
+REDIRECT_HTTP=n
+
 # ------------------------------
 # Other bindings
 # ------------------------------
